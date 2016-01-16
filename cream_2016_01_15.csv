@@ -1,0 +1,33 @@
+type,quantity,unit,name
+,,,
+emulsifier,6,g,"emulsan II"
+hardener,6,g,beeswax
+oil,15,g,"cocoa butter"
+oil,10,g,"shea butter"
+,,,
+oil,10,g,"jojoba oil"
+oil,15,g,"almond oil"
+oil,10,g,"grapeseed oil"
+oil,10,g,"apricot kernel oil"
+,,,
+water,55,g,"calendula extract"
+extract,5,g,"aloe vera 10x concentrate"
+extract,5,g,"hemamelis destiallate"
+extract,5,g,"camomile extract"
+,,,
+"essential oil",10,drops,"benzoe siam"
+"essential oil",20,drops,"lavender oil"
+antioxidant,"1,5",g,"vitamin e acetat"
+preservative,"1,5",g,"biokons plus"
+humectant,"1,5",g,glycerin
+,,,
+,,,
+Instructions:,,,"Heat up emulsifier and hardener agent until liquid"
+,,,"reduce heat to a low setting"
+,,,"add cocoa and shea butter and wait until liquid"
+,,,"slowly add the remaining oils, make sure temperature does not drop below 45°C but not heat up to more than 55°C"
+,,,"before adding water at room temperature, make sure your temperature is about 55°C, otherwise you might have problems with the emulsification"
+,,,"add water and stirr until emulsified"
+,,,"add remaining ingredients and continue stirring"
+,,,"remove from heat"
+,,,"fill cream into small containers"
